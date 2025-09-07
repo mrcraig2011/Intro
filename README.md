@@ -13,7 +13,7 @@ To obtain a cybersecurity position where I can leverage my academic background i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-  Windows Event Logger                            [Windows-Login-Scanner](https://github.com/mrcraig2011/Windows-Login-Scanner)
+  Windows Event Logger                          | [Windows-Login-Scanner](https://github.com/mrcraig2011/Windows-Login-Scanner)
 
 ## Tools
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
